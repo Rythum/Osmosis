@@ -62,3 +62,51 @@ ul a{
 	top: 70%;
 	left: 75%;
 }
+
+#five{
+	position: absolute;
+	top: 180%;
+	left: 0%;	
+}
+
+#six{
+	position: absolute;
+	top: 180%;
+	left: 25%;
+}
+
+#seven{
+	position: absolute;
+	top: 180%;
+	left: 50%;
+}
+
+#eight{
+	position: absolute;
+	top: 180%;
+	left: 75%;
+}
+
+#nine{
+	position: absolute;
+	top: 290%;
+	left: 0%;	
+}
+
+#ten{
+	position: absolute;
+	top: 290%;
+	left: 25%;
+}
+
+#eleven{
+	position: absolute;
+	top: 290%;
+	left: 50%;
+}
+
+#twelve{
+	position: absolute;
+	top: 290%;
+	left: 75%;
+}
