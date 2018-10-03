@@ -110,3 +110,75 @@ ul a{
 	top: 290%;
 	left: 75%;
 }
+
+#one_{
+	position: absolute;
+	top: 90%;
+	left: 0%;	
+}
+
+#two_{
+	position: absolute;
+	top: 90%;
+	left: 25%;
+}
+
+#three_{
+	position: absolute;
+	top: 90%;
+	left: 50%;
+}
+
+#four_{
+	position: absolute;
+	top: 90%;
+	left: 75%;
+}
+
+#five_{
+	position: absolute;
+	top: 200%;
+	left: 0%;	
+}
+
+#six_{
+	position: absolute;
+	top: 200%;
+	left: 25%;
+}
+
+#seven_{
+	position: absolute;
+	top: 200%;
+	left: 50%;
+}
+
+#eight_{
+	position: absolute;
+	top: 200%;
+	left: 75%;
+}
+
+#nine_{
+	position: absolute;
+	top: 310%;
+	left: 0%;	
+}
+
+#ten_{
+	position: absolute;
+	top: 310%;
+	left: 25%;
+}
+
+#eleven_{
+	position: absolute;
+	top: 310%;
+	left: 50%;
+}
+
+#twelve_{
+	position: absolute;
+	top: 310%;
+	left: 75%;
+}
