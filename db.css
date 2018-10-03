@@ -2,3 +2,27 @@
 	height: 100px;
 	width: 130px;
 }
+
+#fy{
+	position: absolute;
+	top: 70%;
+	left: 0%;	
+}
+
+#sy{
+	position: absolute;
+	top: 70%;
+	left: 25%;
+}
+
+#ty{
+	position: absolute;
+	top: 70%;
+	left: 50%;
+}
+
+#fty{
+	position: absolute;
+	top: 70%;
+	left: 75%;
+}
