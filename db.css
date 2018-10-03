@@ -3,26 +3,74 @@
 	width: 130px;
 }
 
-#fy{
+#one{
 	position: absolute;
 	top: 70%;
 	left: 0%;	
 }
 
-#sy{
+#two{
 	position: absolute;
 	top: 70%;
 	left: 25%;
 }
 
-#ty{
+#three{
 	position: absolute;
 	top: 70%;
 	left: 50%;
 }
 
-#fty{
+#four{
 	position: absolute;
 	top: 70%;
+	left: 75%;
+}
+
+#five{
+	position: absolute;
+	top: 180%;
+	left: 0%;	
+}
+
+#six{
+	position: absolute;
+	top: 180%;
+	left: 25%;
+}
+
+#seven{
+	position: absolute;
+	top: 180%;
+	left: 50%;
+}
+
+#eight{
+	position: absolute;
+	top: 180%;
+	left: 75%;
+}
+
+#nine{
+	position: absolute;
+	top: 290%;
+	left: 0%;	
+}
+
+#ten{
+	position: absolute;
+	top: 290%;
+	left: 25%;
+}
+
+#eleven{
+	position: absolute;
+	top: 290%;
+	left: 50%;
+}
+
+#twelve{
+	position: absolute;
+	top: 290%;
 	left: 75%;
 }
