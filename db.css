@@ -182,3 +182,45 @@ ul a{
 	top: 310%;
 	left: 75%;
 }
+
+#thirteen_{
+	position: absolute;
+	top: 420%;
+	left: 0%;
+}
+#fourteen_{
+	position: absolute;
+	top: 420%;
+	left: 25%;
+}
+#fifteen_{
+	position: absolute;
+	top: 420%;
+	left: 50%;
+}
+#sixteen_{
+	position: absolute;
+	top: 420%;
+	left: 75%;
+}
+
+#seventeen_{
+	position: absolute;
+	top: 530%;
+	left: 0%;
+}
+#eighteen_{
+	position: absolute;
+	top: 530%;
+	left: 25%;
+}
+#nineteen_{
+	position: absolute;
+	top: 530%;
+	left: 50%;
+}
+#twenty_{
+	position: absolute;
+	top: 530%;
+	left: 75%;
+}
